@@ -183,7 +183,7 @@
         "UpdateStageName": "Server.cfg Template Download",
         "UpdateSourcePlatform": "All",
         "UpdateSource": "FetchURL",
-        "UpdateSourceData": "https://raw.githubusercontent.com/Greelan/AMPTemplates/fivemredm/fivemserver.cfg",
+        "UpdateSourceData": "https://raw.githubusercontent.com/thefurrycanadian/AMPTemplates/refs/heads/fivemredm/fivemserver-tx.cfg",
         "UpdateSourceArgs": "AMP_server.cfg",
         "UpdateSourceTarget": "{{$FullInstanceDir}}",
         "OverwriteExistingFiles": true,
