@@ -1,0 +1,16 @@
+[
+    {
+        "Protocol": "Both",
+        "Port": 30120,
+        "Ref": "ServerPort",
+        "Name": "Server Port",
+        "Description": "Port for game traffic"
+    },
+    {
+        "Protocol": "tcp",
+        "Port": 40125,
+        "Ref": "txAdminPort",
+        "Name": "txAdmin Port",
+        "Description": "Port for txAdmin traffic"
+    }
+]
