@@ -29,7 +29,7 @@
         "UpdateStageName": "Download SinusBot",
         "UpdateSourcePlatform": "Linux",
         "UpdateSource": "FetchURL",
-        "UpdateSourceData": "https://www.sinusbot.com/dl/sinusbot.current.tar.bz2",
+        "UpdateSourceData": "https://www.sinusbot.com/pre/sinusbot-1.0.1-amd64.tar.bz2",
         "UnzipUpdateSource": true,
         "OverwriteExistingFiles": true,
         "DeleteAfterExtract": true
